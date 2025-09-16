@@ -1,13 +1,10 @@
 <h1 align="center">Hello, I'm Mihir Raj</h1>
-<h3 align="center">A Passionate Software Engineer from India</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.ibb.co/cXZ0hRrr/github-profile-desk-1.png">
+<a href="https://imgpx.com/qNA6lMeGQpdb"><img align="right" alt="coding" width="400" src="https://imgpx.com/PONz26kDdT5J.png" alt="Image IMGpx" /></a>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=mihirrajwow&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
-
----
 
 ### 👨‍💻 About Me  
 - 🌱 Currently learning **React.js** and sharpening **DSA in Java**
@@ -17,7 +14,7 @@
 
 ---
 
-### 🌐 Connect with Me  
+### 🌐 Connect with Me
 <p align="left">
   <a href="https://www.linkedin.com/in/raj-mihir" target="_blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
@@ -35,7 +32,7 @@
 
 ---
 
-### 🛠️ Languages & Tools  
+### 🛠️ Languages & Tools
 <p align="left">
   <a href="https://www.cprogramming.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/></a>
   <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
