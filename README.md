@@ -7,7 +7,7 @@
 </p>
 
 ### 👨‍💻 About Me
-<div align="left">
+<div align="left" width="40%">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Full+Stack+Developer;Team+Lead;" alt="Typing SVG" />
   </a>
