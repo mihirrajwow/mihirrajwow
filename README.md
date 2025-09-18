@@ -6,7 +6,8 @@
   <img src="https://komarev.com/ghpvc/?username=mihirrajwow&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
-### 👨‍💻 About Me  
+### 👨‍💻 About Me
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Full+Stack+Developer;Team+Lead;)](https://git.io/typing-svg)
 - 🌱 Currently learning **React.js** and sharpening **DSA in Java**
 - ⭐ Skilling myself in Machine Learning
 - 💡 Passionate about building scalable web applications and problem-solving  
@@ -48,8 +49,8 @@
 ---
 
 ### 📊 GitHub Stats  
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirrajwow&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mihirrajwow&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirrajwow&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mihirrajwow&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mihirrajwow" alt="GitHub Streak" /></p>
+<div align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=mihirrajwow" alt="GitHub Streak" /></div>
