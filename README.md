@@ -7,7 +7,12 @@
 </p>
 
 ### 👨‍💻 About Me
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Full+Stack+Developer;Team+Lead;)](https://git.io/typing-svg)
+<div align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=1DA1F2&width=435&lines=Full+Stack+Developer;Team+Lead;" alt="Typing SVG" />
+  </a>
+</div>
+
 - 🌱 Currently learning **React.js** and sharpening **DSA in Java**
 - ⭐ Skilling myself in Machine Learning
 - 💡 Passionate about building scalable web applications and problem-solving  
