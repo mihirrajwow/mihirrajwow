@@ -2,8 +2,6 @@
   <img src="./assets/hero-banner.svg" alt="Mihir Raj" width="100%"/>
 </p>
 
----
-
 <p align="center">
   <a href="https://www.linkedin.com/in/mihirrajw/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%23FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,8 +26,6 @@
 - 💡 Passionate about writing code that is clean, scalable, and actually ships
 - 📍 Bhubaneswar, Odisha, India
 - 📫 **mihirrajwow@gmail.com**
-
----
 
 ### 🚀 Projects
 
@@ -100,37 +96,36 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihirrajwow/wownotes)
 &nbsp;
-[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300C7B7?style=for-the-badge&logo=cloudflare&logoColor=white)](https://wownotes.pages.dev)
+[![Live](https://img.shields.io/badge/Live%20Demo-%2300C7B7?style=for-the-badge&logo=cloudflare&logoColor=yellow)](https://wownotes.pages.dev)
 
 </td>
 </tr>
 </table>
 
----
 
 ### 🛠️ Tech Stack
 
 **💻 Languages**
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css,dart" />
 </p>
 
 **📦 Libraries & Frameworks**
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,spring,flutter,tensorflow,pytorch,sklearn,numpy,pandas" />
 </p>
 
 **🔧 Tools & Platforms**
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,idea,pycharm,clion,jupyter" />
 </p>
 
 **🗄️ Databases**
 
-<p align="left">
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 </p>
 
