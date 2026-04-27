@@ -4,6 +4,22 @@
 
 ---
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/mihirrajw/" target="_blank">
+    <img src="./assets/mylinkedIn.png" height="42" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mihirrajwow@gmail.com">
+    <img src="./assets/mygmail.png" height="42" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_mihir.h" target="_blank">
+    <img src="./assets/myinstagram.png" height="42" alt="Instagram"/>
+  </a>
+</p>
+
+---
+
 ### 👨‍💻 About Me
 
 - 🌱 Currently deepening **React.js** and sharpening **DSA in Java**
@@ -12,9 +28,6 @@
 - 💡 Passionate about writing code that is clean, scalable, and actually ships
 - 📍 Bhubaneswar, Odisha, India
 - 📫 **mihirrajwow@gmail.com**
-
----
-
 
 ---
 
@@ -86,6 +99,8 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 <br/>
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihirrajwow/wownotes)
+&nbsp;
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-%2300C7B7?style=for-the-badge&logo=cloudflare&logoColor=white)](https://wownotes.pages.dev)
 
 </td>
 </tr>
@@ -93,33 +108,167 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 
 ---
 
-### 🌐 Connect
+### 🛠️ Tech Stack
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/mihirrajw" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="28" width="36"/></a>&nbsp;
-  <a href="https://www.instagram.com/_mihir.h/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="28" width="36"/></a>&nbsp;
-  <a href="https://www.codechef.com/users/mihirrajwow" target="_blank"><img src="https://img.icons8.com/color/512/codechef.png" alt="CodeChef" height="28" width="36"/></a>&nbsp;
-  <a href="https://www.hackerrank.com/profile/mihirrajwow" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/hackerrank.svg" alt="HackerRank" height="28" width="36"/></a>
-</p>
+#### 💻 Languages
 
----
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="./assets/python.png" width="40" height="40" alt="Python"/><br/>
+      <sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/javascript.png" width="40" height="40" alt="JavaScript"/><br/>
+      <sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/java.png" width="40" height="40" alt="Java"/><br/>
+      <sub><b>Java</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/c.png" width="40" height="40" alt="C"/><br/>
+      <sub><b>C</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/c++.png" width="40" height="40" alt="C++"/><br/>
+      <sub><b>C++</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/html.png" width="40" height="40" alt="HTML5"/><br/>
+      <sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/css.png" width="40" height="40" alt="CSS3"/><br/>
+      <sub><b>CSS3</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/dart.png" width="40" height="40" alt="Dart"/><br/>
+      <sub><b>Dart</b></sub>
+    </td>
+  </tr>
+</table>
 
-### 🛠️ Languages & Tools
+#### 📦 Libraries & Frameworks
 
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="36" height="36"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="36" height="36"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="./assets/react.png" width="40" height="40" alt="React"/><br/>
+      <sub><b>React</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/springboot.png" width="40" height="40" alt="Spring Boot"/><br/>
+      <sub><b>Spring Boot</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/flutter.png" width="40" height="40" alt="Flutter"/><br/>
+      <sub><b>Flutter</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/tensorflow.png" width="40" height="40" alt="TensorFlow"/><br/>
+      <sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/pytorch.png" width="40" height="40" alt="PyTorch"/><br/>
+      <sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/keras.png" width="40" height="40" alt="Keras"/><br/>
+      <sub><b>Keras</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/scikit-learn.png" width="40" height="40" alt="Scikit-learn"/><br/>
+      <sub><b>Scikit-learn</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/numpy.png" width="40" height="40" alt="NumPy"/><br/>
+      <sub><b>NumPy</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/pandas.png" width="40" height="40" alt="Pandas"/><br/>
+      <sub><b>Pandas</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/matplotlib.png" width="40" height="40" alt="Matplotlib"/><br/>
+      <sub><b>Matplotlib</b></sub>
+    </td>
+  </tr>
+</table>
+
+#### 🔧 Tools & Platforms
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="./assets/git.png" width="40" height="40" alt="Git"/><br/>
+      <sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/github.png" width="40" height="40" alt="GitHub"/><br/>
+      <sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/vsCode.png" width="40" height="40" alt="VS Code"/><br/>
+      <sub><b>VS Code</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/linux.png" width="40" height="40" alt="Linux"/><br/>
+      <sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/colab.png" width="40" height="40" alt="Google Colab"/><br/>
+      <sub><b>Colab</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/jupyter.png" width="40" height="40" alt="Jupyter"/><br/>
+      <sub><b>Jupyter</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/androidstudio.png" width="40" height="40" alt="Android Studio"/><br/>
+      <sub><b>Android Studio</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/IntelliJIDEA.png" width="40" height="40" alt="IntelliJ IDEA"/><br/>
+      <sub><b>IntelliJ IDEA</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/PyCharm.png" width="40" height="40" alt="PyCharm"/><br/>
+      <sub><b>PyCharm</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/CLion.png" width="40" height="40" alt="CLion"/><br/>
+      <sub><b>CLion</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="./assets/copilot.png" width="40" height="40" alt="GitHub Copilot"/><br/>
+      <sub><b>Copilot</b></sub>
+    </td>
+  </tr>
+</table>
+
+#### 🗄️ Databases
+
+<table>
+  <tr>
+    <td align="center" width="90">
+      <img src="./assets/mysql.png" width="40" height="40" alt="MySQL"/><br/>
+      <sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/>
+      <sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>
+      <sub><b>MongoDB</b></sub>
+    </td>
+    <td align="center" width="90">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/><br/>
+      <sub><b>Redis</b></sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
