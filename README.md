@@ -4,25 +4,19 @@
 
 ---
 
-<table border="0" cellspacing="0" cellpadding="10" align="center">
-  <tr>
-    <td align="center">
-      <a href="https://www.linkedin.com/in/mihirrajw/" target="_blank">
-        <img src="https://img.shields.io/badge/LinkedIn-%23FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="mailto:mihirrajwow@gmail.com">
-        <img src="https://img.shields.io/badge/Email-%23FF0080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://www.instagram.com/_mihir.h" target="_blank">
-        <img src="https://img.shields.io/badge/Instagram-%23FF0080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-      </a>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://www.linkedin.com/in/mihirrajw/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%23FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:mihirrajwow@gmail.com">
+    <img src="https://img.shields.io/badge/Email-%23FF0080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/_mihir.h" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23FF0080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+  </a>
+</p>
 
 ---
 
@@ -116,165 +110,29 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 
 ### 🛠️ Tech Stack
 
-#### 💻 Languages
+**💻 Languages**
 
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" width="90">
-      <img src="./assets/python.png" width="40" height="40" alt="Python"/><br/>
-      <sub><b>Python</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/javascript.png" width="40" height="40" alt="JavaScript"/><br/>
-      <sub><b>JavaScript</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/java.png" width="40" height="40" alt="Java"/><br/>
-      <sub><b>Java</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/c.png" width="40" height="40" alt="C"/><br/>
-      <sub><b>C</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/c++.png" width="40" height="40" alt="C++"/><br/>
-      <sub><b>C++</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/html.png" width="40" height="40" alt="HTML5"/><br/>
-      <sub><b>HTML5</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/css.png" width="40" height="40" alt="CSS3"/><br/>
-      <sub><b>CSS3</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/dart.png" width="40" height="40" alt="Dart"/><br/>
-      <sub><b>Dart</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,javascript,java,c,cpp,html,css,dart" />
+</p>
 
-#### 📦 Libraries & Frameworks
+**📦 Libraries & Frameworks**
 
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" width="90">
-      <img src="./assets/react.png" width="40" height="40" alt="React"/><br/>
-      <sub><b>React</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/springboot.png" width="40" height="40" alt="Spring Boot"/><br/>
-      <sub><b>Spring Boot</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/flutter.png" width="40" height="40" alt="Flutter"/><br/>
-      <sub><b>Flutter</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/tensorflow.png" width="40" height="40" alt="TensorFlow"/><br/>
-      <sub><b>TensorFlow</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/pytorch.png" width="40" height="40" alt="PyTorch"/><br/>
-      <sub><b>PyTorch</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/keras.png" width="40" height="40" alt="Keras"/><br/>
-      <sub><b>Keras</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/scikit-learn.png" width="40" height="40" alt="Scikit-learn"/><br/>
-      <sub><b>Scikit-learn</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/numpy.png" width="40" height="40" alt="NumPy"/><br/>
-      <sub><b>NumPy</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/pandas.png" width="40" height="40" alt="Pandas"/><br/>
-      <sub><b>Pandas</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/matplotlib.png" width="40" height="40" alt="Matplotlib"/><br/>
-      <sub><b>Matplotlib</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,spring,flutter,tensorflow,pytorch,sklearn,numpy,pandas" />
+</p>
 
-#### 🔧 Tools & Platforms
+**🔧 Tools & Platforms**
 
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" width="90">
-      <img src="./assets/git.png" width="40" height="40" alt="Git"/><br/>
-      <sub><b>Git</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/github.png" width="40" height="40" alt="GitHub"/><br/>
-      <sub><b>GitHub</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/vsCode.png" width="40" height="40" alt="VS Code"/><br/>
-      <sub><b>VS Code</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/linux.png" width="40" height="40" alt="Linux"/><br/>
-      <sub><b>Linux</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/colab.png" width="40" height="40" alt="Google Colab"/><br/>
-      <sub><b>Colab</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/jupyter.png" width="40" height="40" alt="Jupyter"/><br/>
-      <sub><b>Jupyter</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/androidstudio.png" width="40" height="40" alt="Android Studio"/><br/>
-      <sub><b>Android Studio</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/IntelliJIDEA.png" width="40" height="40" alt="IntelliJ IDEA"/><br/>
-      <sub><b>IntelliJ IDEA</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/PyCharm.png" width="40" height="40" alt="PyCharm"/><br/>
-      <sub><b>PyCharm</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/CLion.png" width="40" height="40" alt="CLion"/><br/>
-      <sub><b>CLion</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="./assets/copilot.png" width="40" height="40" alt="GitHub Copilot"/><br/>
-      <sub><b>Copilot</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,androidstudio,idea,pycharm,clion,jupyter" />
+</p>
 
-#### 🗄️ Databases
+**🗄️ Databases**
 
-<table border="0" cellspacing="0" cellpadding="8">
-  <tr>
-    <td align="center" width="90">
-      <img src="./assets/mysql.png" width="40" height="40" alt="MySQL"/><br/>
-      <sub><b>MySQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="PostgreSQL"/><br/>
-      <sub><b>PostgreSQL</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40" alt="MongoDB"/><br/>
-      <sub><b>MongoDB</b></sub>
-    </td>
-    <td align="center" width="90">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="40" height="40" alt="Redis"/><br/>
-      <sub><b>Redis</b></sub>
-    </td>
-  </tr>
-</table>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
+</p>
 
 ---
 
