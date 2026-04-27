@@ -129,7 +129,9 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
   <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb,redis" />
 </p>
 
----
+<p align="center">
+  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
+</p>
 
 ### 📊 GitHub Stats
 
