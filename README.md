@@ -96,7 +96,7 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 
 [![View Repo](https://img.shields.io/badge/View%20Repo-%23181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mihirrajwow/wownotes)
 &nbsp;
-[![Live](https://img.shields.io/badge/Live%20Demo-%2300C7B7?style=for-the-badge&logo=cloudflare&logoColor=yellow)](https://wownotes.pages.dev)
+[![LIVE](https://img.shields.io/badge/Live%20Demo-%23000000?style=for-the-badge&logo=cloudflare&logoColor=yellow)](https://wownotes.pages.dev)
 
 </td>
 </tr>
