@@ -4,15 +4,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mihirrajw/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%23FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/-%231F51FF?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mihirrajwow@gmail.com">
-    <img src="https://img.shields.io/badge/Email-%23FF0080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/-%231F51FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/_mihir.h" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-%23FF0080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+    <img src="https://img.shields.io/badge/-%231F51FF?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
 </p>
 
