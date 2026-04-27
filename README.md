@@ -4,19 +4,25 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/mihirrajw/" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="48" alt="LinkedIn"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:mihirrajwow@gmail.com">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="48" alt="Email"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/_mihir.h" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="48" alt="Instagram"/>
-  </a>
-</p>
+<table border="0" cellspacing="0" cellpadding="10" align="center">
+  <tr>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/mihirrajw/" target="_blank">
+        <img src="https://img.shields.io/badge/LinkedIn-%23FF0080?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="mailto:mihirrajwow@gmail.com">
+        <img src="https://img.shields.io/badge/Email-%23FF0080?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/_mihir.h" target="_blank">
+        <img src="https://img.shields.io/badge/Instagram-%23FF0080?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
