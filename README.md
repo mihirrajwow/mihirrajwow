@@ -130,7 +130,7 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 </p>
 
 <p align="center">
-  <img src="./profile-3d-contrib/profile-green-animate.svg" width="100%" alt="3D Contribution Graph"/>
+  <img src="./profile-3d-contrib/profile-customize.svg" width="100%" alt="3D Contribution Graph"/>
 </p>
 
 ### 📊 GitHub Stats
