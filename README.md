@@ -6,15 +6,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mihirrajw/" target="_blank">
-    <img src="./assets/mylinkedIn.png" height="42" alt="LinkedIn"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="40" width="48" alt="LinkedIn"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:mihirrajwow@gmail.com">
-    <img src="./assets/mygmail.png" height="42" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" height="40" width="48" alt="Email"/>
   </a>
   &nbsp;&nbsp;
   <a href="https://www.instagram.com/_mihir.h" target="_blank">
-    <img src="./assets/myinstagram.png" height="42" alt="Instagram"/>
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="40" width="48" alt="Instagram"/>
   </a>
 </p>
 
@@ -112,7 +112,7 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 
 #### 💻 Languages
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center" width="90">
       <img src="./assets/python.png" width="40" height="40" alt="Python"/><br/>
@@ -151,7 +151,7 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 
 #### 📦 Libraries & Frameworks
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center" width="90">
       <img src="./assets/react.png" width="40" height="40" alt="React"/><br/>
@@ -198,7 +198,7 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 
 #### 🔧 Tools & Platforms
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center" width="90">
       <img src="./assets/git.png" width="40" height="40" alt="Git"/><br/>
@@ -249,7 +249,7 @@ Secure MERN notes app for KIIT students — Google OAuth domain-locked, real-tim
 
 #### 🗄️ Databases
 
-<table>
+<table border="0" cellspacing="0" cellpadding="8">
   <tr>
     <td align="center" width="90">
       <img src="./assets/mysql.png" width="40" height="40" alt="MySQL"/><br/>
