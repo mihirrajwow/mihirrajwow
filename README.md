@@ -58,7 +58,7 @@ Production API Gateway with sliding-window distributed rate limiting via atomic 
 
 **🌿 ecosage**
 
-RAG-powered sustainability chatbot using Haystack pipelines, local SentenceTransformers embeddings, and Claude API for generation.
+RAG-powered sustainability chatbot using Haystack pipelines, local SentenceTransformers embeddings, and Gemini API for generation.
 
 <br/>
 
